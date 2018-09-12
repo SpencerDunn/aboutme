@@ -1,0 +1,15 @@
+body,html {
+    background-color: rgb(75, 18, 76);
+}
+
+p {color: whitesmoke;
+
+}
+
+.grey-copy{
+color:grey;
+}
+
+#content-wrapper{
+width:600px; 
+}
